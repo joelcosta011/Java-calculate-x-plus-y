@@ -1,0 +1,8 @@
+// Please write your code after this line
+
+IO.output("Enter an integer, x: ");
+int x = IO.inputInteger();
+IO.output("Enter and integer, y: ");
+int y = IO.inputInteger();
+int calculated_result = x*y;
+IO.output("Answer = "+calculated_result);
